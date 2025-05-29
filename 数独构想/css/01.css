@@ -1,0 +1,76 @@
+
+.wai{
+    position: relative;
+    margin: 300px auto;
+    width: 406px;
+    height: 460px;
+}
+
+.biaoGe{
+    width: 406px;
+    height: 406px;
+}
+
+table {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 406px;
+    height: 406px;
+    border-collapse: collapse;
+}
+
+td {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border: 2px solid;
+    text-align: center;
+    line-height: 40px;
+}
+
+input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 39px;
+    height: 40px;
+    border: none;
+    text-align: center;
+    line-height: 40px;
+    background-color: aqua;
+    z-index: 100;
+}
+
+.CuBianKuang {
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+    border-right: 4px solid #000;
+}
+
+.amNiu{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 406px;
+    height: 44px;
+    line-height: 44px;
+}
+
+button{
+    width: 90px;
+    height: 40px;
+    color: #ff0c0c;
+    background:aqua;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+
+.Shua{
+    margin-left: 60px;
+}
+.Ti{
+  margin-left: 100px;
+}
